@@ -85,7 +85,6 @@
   line-height: 1.15;
   text-transform: uppercase;
   letter-spacing: 0.3em;
-  word-spacing: 0.17em;
   z-index: 2;
 }
 
@@ -99,10 +98,6 @@
 
 .aligned-text_right {
   text-align: right;
-}
-
-.letter-spacing-extended {
-  letter-spacing: 0.6em;
 }
 
 .no-letter-spacing {
